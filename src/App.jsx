@@ -244,7 +244,7 @@ const SofiaPortfolio = () => {
                       backgroundColor: colors.mint,
                       color: colors.black
                     }}>
-                      Java
+                      C#
                     </span>
                   </div>
                   <h3 className="text-xl font-medium mb-3" style={{ color: colors.black }}>
@@ -397,7 +397,7 @@ const SofiaPortfolio = () => {
                       backgroundColor: colors.mint,
                       color: colors.black
                     }}>
-                      C# / .NET
+                      Java
                     </span>
                   </div>
                   <h3 className="text-xl font-medium mb-3" style={{ color: colors.black }}>
