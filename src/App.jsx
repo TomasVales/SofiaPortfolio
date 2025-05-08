@@ -61,7 +61,8 @@ const SofiaPortfolio = () => {
   }
 
   return (
-    <div className="min-h-screen font-sans antialiased" style={{ backgroundColor: colors.vanilla, color: colors.black }}>
+    <div className="min-h-screen font-sans antialiased overflow-x-hidden" style={{ backgroundColor: colors.vanilla, color: colors.black }}>
+
       {/* Navigation */}
       <nav className="fixed top-0 left-0 right-0 z-40 bg-opacity-90 backdrop-blur-sm border-b" style={{ backgroundColor: colors.vanilla, borderColor: colors.tan }}>
         <div className="container mx-auto px-6 py-5 flex justify-between items-center">
